@@ -2,3 +2,4 @@ redis:7.2.0
 spryker/redis-commander:0.8.0
 phpmyadmin:5.2.1
 mysql:8.0.32
+alpine:3.18.2
