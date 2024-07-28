@@ -4,4 +4,5 @@ phpmyadmin:5.2.1
 mysql:8.0.32
 alpine:3.18.2
 zhangxing123/chatgpt-web:2.0
+zhangxing123/chatgpt-data-app:2.0
 
