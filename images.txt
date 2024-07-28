@@ -1,1 +1,2 @@
 zhangxing123/chatgpt-api:latest
+redis:7.2.0
